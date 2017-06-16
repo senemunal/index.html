@@ -1,0 +1,155 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+#header{
+	background-color: #fbba00;
+	height:100px;
+	line-height:100px;
+	position:fixed;
+	width:100%;
+	top:40px;
+	opacity: 0.9;
+	
+}
+.container{
+	height:1200px;
+	
+}
+#header nav ul{
+	list-style:none outside none;
+}
+
+#header nav ul li{
+	display:inline-block;
+	padding-left:60px;
+	
+}
+#logo{
+	margin-left:30px;
+	margin-top:25px;
+	
+}
+#header nav{
+	float:right;
+	
+}
+#header nav ul li a{
+	color:#fff;
+	font-size:18px;
+	font-weight:400;
+	transition: all 0.5s ease-in; 
+	text-decoration:none;
+	
+}
+#header nav ul li a:hover, header nav ul li a:focus{
+	color:#333530;
+	text-decoration:none;
+}
+#slaytarea{
+	background: url('../images/coraplar.jpg');
+	background-size:cover;
+	background-position:center;
+	
+}
+.slaytyazi{
+	margin-top:250px;
+	margin-left:550px;;
+}
+.slaytyazi h1{
+	font-size:26px;
+	color:#1b325c;
+	margin-bottom:20px;
+	float:left;
+	
+}
+.btn{
+	background-color:#fbba00;
+	border:none;
+	width:75px;
+	height:38px;
+	border-radius:20px;
+	margin-bottom:60px;
+	float:left;
+	margin-left:30px;
+    color:#1b325c;
+	font-size:15px;
+	font-weight:bold;
+}
+ 
+#kenaroku{
+	
+	margin-top:290px;
+	padding-left:10px;
+	
+}
+#kenaroku2{
+	margin-top:290px;
+	padding-left:1270px;
+}
+
+
+#contentbackground{
+	background-color:#e0e3cd;
+	height:1200px;
+}
+#simli{
+	
+   margin-right: 700px;
+    margin-top: 10px;
+	
+}
+#ince{
+	margin-left:500px;
+	margin-top:-310px;
+	float:left;
+}
+#soket{
+	float:left;
+	margin-top:-310px;
+	margin-left:45px;
+}
+#dantelli{
+	margin-left:50px;
+}
+#cocuk{
+	margin-top:-100px;
+	
+}
+#bebek{
+	
+}
+
+
+#footer{
+	background-color: #fbba00;
+	height:55px;
+	margin-bottom:20px;
+	width:100%;
+	top:2050px;
+}
+#socialmedia{
+	margin-left:530px;
+	
+}
+
+#designer{
+	background-color:#42454a;
+	height:35px;
+	margin-top:0px;
+	
+}
+#designer p{
+	font-size:10px;
+	color:#827d7d;
+	padding-top:10px;
+	margin-left:1080px;
+	
+}
+#imlec{
+	margin-left:-260px;
+	margin-top:32px;
+}
