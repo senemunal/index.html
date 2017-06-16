@@ -19,7 +19,7 @@
 	 
 	    <div  id="header">
 		  
-		<img id="logo" src="images\logo.png" alt="goznuru"/><!-- alt özelliği seo ıcın onemli-->
+		<img id="logo" src="images/logo.png" alt="goznuru"/><!-- alt özelliği seo ıcın onemli-->
 	        <nav class="menu" id="menu">
 			    <ul>
 			      <li> <a href="#anasayfa"> ANASAYFA </a></li>
@@ -37,12 +37,12 @@
 	
 	<div id="slaytarea" class="text-center">
 	    
-		    <img id="kenaroku" src="images\kenaroku.png"/>
-			<img id="kenaroku2" src="images\kenaroku2.png"/>
+		    <img id="kenaroku" src="images/kenaroku.png" alt="ok"/>
+			<img id="kenaroku2" src="images/kenaroku2.png" alt="ok2"/>
 	        <div class="slaytyazi">
 			<h1>TARZINI YARAT</h1>
 			<input type="button" value="GÖZAT" class="btn "/>
-			<img id="imlec" src="images\imlec.png"/>
+			<img id="imlec" src="images/imlec.png" alt="yerbelirteci"/>
 			
 			</div>
 		
@@ -51,30 +51,30 @@
 	
 	<div id="contentbackground" > <!--bu divi açmamın sebebi arka plana istediğim rengi verkmektir.-->
        <div id="kategoriler">
-		    <img id="simli" src="images\simli.png" />
+		    <img id="simli" src="images/simli.png" alt="simli" />
 		
 				
-			<img id="ince" src="images\ince.png"/>
+			<img id="ince" src="images/ince.png" alt="ince"/>
 		
 				
-			<img id="soket" src="images\soket.png"/>
+			<img id="soket" src="images/soket.png" alt="soket"/>
 		
 			
-			<img id="dantelli" src="images\dantelli.png"/>
+			<img id="dantelli" src="images/dantelli.png" alt="dantelli"/>
 		
 			
-			<img id="cocuk" src="images\cocuk.png"/>
+			<img id="cocuk" src="images/cocuk.png" alt="cocuk"/>
 		
 				
-			<img id="erkek" src="images\erkek.png"/>
+			<img id="erkek" src="images/erkek.png" alt="erkek"/>
 		
 			
-			<img id="bebek" src="images\bebek.png"/>
+			<img id="bebek" src="images/bebek.png" alt="bebek"/>
 		
 	    </div>
 	
 	<div id="footer">
-	    <img id="socialmedia" src="images\socialmedia.png"/>
+	    <img id="socialmedia" src="images/socialmedia.png" alt="sosyalmedya"/>
 	</div>
 	
 	
